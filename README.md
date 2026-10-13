@@ -6,6 +6,21 @@ FragHub puts everything the network knows about its servers and its players in o
 
 It is free to use. A newcomer can judge the network without signing up; a regular can settle a question — *am I banned, and why? which server has people on it right now? where did my rank go?* — in a few seconds.
 
+## Why FragHub exists: what the forum can't do, and what FragHub fixes
+
+The Fragujemy [forum](https://fragujemy.com) is where the community talks, and it still is. But a discussion board is the wrong tool for *looking things up*. Before FragHub, the facts players actually needed lived in separate places — game-server databases, plugin tables, forum threads — with nothing tying them to one person.
+
+| Where the forum falls short | What FragHub does instead |
+|---|---|
+| **Facts are buried in threads.** To check a ban, a rank or a server, you search posts and hope someone updated them. | **Every fact has a page.** Live servers, rankings, sanctions and demos are read straight from what the game servers recorded, so they are current by construction, not by someone remembering to post. |
+| **The data is scattered.** Bans, rankings, demos and skins sit in different systems and different schemas, per game. | **One place, three games.** CS 1.6, CS2 and CS:GO are gathered behind one set of pages, so you don't need to know which system holds what. |
+| **No single identity.** A forum username is not your in-game account, so nothing connects your posts, rank, sanctions, skins and friends. | **One account for everything.** Sign in with Steam and rank, sanctions, demos, skins, reports, friends and profile all hang off the same identity. |
+| **Outsiders can't judge the network.** A newcomer has to read forum history or ask on Discord to learn what the network is. | **Public pages answer the cold arrival.** Servers, ranks, bans, news and partners are readable without an account. |
+| **Reports and sanctions are hard to follow.** A report is a thread; its outcome is whatever the replies say. | **Reports are cases.** Each has its own page with a dated history, followed publicly through to a decision. |
+| **A forum can't configure your game.** | **Tools that act on the game.** Skinchanger, a customisable profile, friends and notifications live next to the data they use. |
+
+FragHub does not replace the forum. Discussion, community and — for now — ban appeals stay there, and FragHub links to it throughout. The split is simple: **the forum is for conversation, FragHub is for facts and tools.**
+
 ## What's on the site
 
 | Area | What it does |
